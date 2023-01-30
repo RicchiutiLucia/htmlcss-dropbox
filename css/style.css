@@ -212,3 +212,11 @@ span{
     background-color: cyan;
     height: 100px;
 }
+footer{
+    background-color: black;
+    width: 100%;
+}
+.footer-list{
+    background-color: red;
+    color: darkorange;
+}
