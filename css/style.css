@@ -17,7 +17,7 @@ ul {
 
 .flex {
     display: flex;
-    flex-wrap: wrap;
+    
 }
 
 .menu-nav {
@@ -47,24 +47,33 @@ a {
 }
 
 .header-container{
-    max-width: 70%;
+    max-width: 1170px;
     margin: auto;
     position: relative;
     height: 780px;
 }
-.text-intro{
-    max-width: 1170px;
-    margin: auto;
-}
 
-.text-intro{
-    background-color: pink;
-    height: 200px;
-    width: 40%;
+.text {
+    padding-bottom: 30px;
+    
 }
-.img{
-    background-color: violet;
-    width: 40%;
+.textsize {
+    font-size: 15px;
+}
+.text-line {
+    padding-top: 30px;
+}
+.img-top {
+    width: 700px;
+    margin-bottom: -80px;
+    height: 500px;
+
+}
+.freccia {
+    font-size: 50px;
+    color: black;
+    position: absolute;
+    bottom: 150px;
 }
 
 h1 {
