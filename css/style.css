@@ -16,6 +16,7 @@ ul {
 
 .flex {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .menu-nav {
@@ -150,4 +151,56 @@ span{
     background-color: chocolate;
     height: 100px;
 }
-
+.client-link{
+    text-align: center;
+}
+.container-sponsor{
+    background-color: blue;
+    height: 200px;
+}
+.sponsor-tag{
+    padding: 50px;
+    margin-right: 50px;
+}
+#col1{
+    width: 50px;
+    height:50px;
+    background-color: darkcyan;
+    
+}
+#col2{
+    width: 50px;
+    height:50px;
+    background-color: darkcyan;
+}
+#col3{
+   
+    width: 50px;
+    height:50px;
+    background-color: darkcyan;
+}
+#col4{
+    width: 50px;
+    height:50px;
+    background-color: darkcyan;
+}
+#col5{
+    width: 50px;
+    height:50px;
+    background-color: darkcyan;
+}
+#col6{
+    width: 50px;
+    height:50px;
+    background-color: darkcyan;
+}
+#col7{
+    width: 50px;
+    height:50px;
+    background-color: darkcyan;
+}
+#col8{
+    width: 50px;
+    height:50px;
+    background-color: darkcyan;
+}
