@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+html{
+    font-family: open sans, sans-serif;
+}
 
 header {
     background-color: #b4d0e7;
@@ -84,12 +87,12 @@ h1 {
 
 
 h2{
-    text-align: center;
+    font-size: 40px
 }
 .container-plan {
     max-width: 60%;
     margin: auto;
-    padding-top: 5rem;
+    padding-top: 80px;
     
 }
 .fatturazione {
@@ -103,9 +106,10 @@ h2{
     list-style: none;
 }
 
-.billing{
-    text-align:center;
-    padding-bottom: 50px;
+.billing {
+    padding-top: 30px;
+    font-size: 13px;
+    
 }
 .card{
     display: inline-block;
