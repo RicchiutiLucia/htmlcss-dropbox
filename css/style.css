@@ -82,21 +82,30 @@ h1 {
     padding-bottom: 60px;
 }
 
-main{
-    padding-top: 500px;
-    max-width: 1170px;
-    margin: auto;
-}
+
 h2{
     text-align: center;
 }
+.container-plan {
+    max-width: 60%;
+    margin: auto;
+    padding-top: 5rem;
+    
+}
+.fatturazione {
+    margin-right: 30px;
+    margin-left: 20px;
+}
+.circle{
+    border: solid 6px #0061FF;
+    border-radius: 50%;
+    text-decoration: none;
+    list-style: none;
+}
+
 .billing{
     text-align:center;
     padding-bottom: 50px;
-
-}
-span{
-    background-color: red;
 }
 .card{
     display: inline-block;
