@@ -5,13 +5,14 @@
 }
 
 header {
-    background-color: #FFFFFF;
+    background-color: #b4d0e7;
     width: 100%;
-    height: 100px;
+    
 }
 
 ul {
  list-style: none;
+ 
 }
 
 .flex {
@@ -20,15 +21,25 @@ ul {
 }
 
 .menu-nav {
+    padding: 20px 10px 20px 10px;
     justify-content: space-between;
     width: 100%;
     position: fixed;
-    background-color: blue;
+    z-index: 10;
+    background-color: white;
 }
-
- a{
-    color:white;
-    padding: 10px;
+header li {
+    padding: 10px 20px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.btn{
+    background-color: #0061FF;
+    padding: 5px 8px;
+    margin-right: 8px;
+    color: white;
 }
 
 .selection {
