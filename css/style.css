@@ -59,3 +59,45 @@ h1{
     text-align: center;
 }
 
+main{
+    padding-top: 500px;
+    max-width: 1170px;
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+.billing{
+    text-align:center;
+    padding-bottom: 50px;
+
+}
+span{
+    background-color: red;
+}
+.card{
+    display: inline-block;
+    width: 33%;
+    height: 300px;
+    background-color: orange;
+    flex-direction: column;
+}
+
+.container-card{
+    display: inline-block;
+    background-color: blueviolet;
+    width: 33%;
+    height: 300px;
+    flex-direction: column;
+    
+}
+.container-card3{
+    display: inline-block;
+    background-color: lightcoral;
+    width: 33%;
+    height: 300px;
+    flex-direction: column;
+
+    
+}
+
