@@ -103,5 +103,47 @@ span{
     height: 400px;
     background-color: aqua;
 }
+.container-plan3{
+    height: 400px;
+    background-color:orangered;
+    
+}
+.PrimaCard{
+    display: inline-block;
+    width:30%;
+    height: 200px;
+    background-color: yellow;
 
+}
+.SecondaCard{
+    display: inline-block;
+    width: 30%;
+    height: 200px;
+    background-color: yellow;
+
+}
+.TerzaCard{
+    display: inline-block;
+    width:30%;
+    height: 200px;
+    background-color: yellow;
+}
+.QuartaCard{
+    display: inline-block;
+    width:30%;
+    height: 200px;
+    background-color: yellow;
+}
+.QuintaCard{
+    display: inline-block;
+    width:30%;
+    height: 200px;
+    background-color: yellow;
+}
+.SestaCard{
+    display: inline-block;
+    width:30%;
+    height: 200px;
+    background-color: yellow;
+}
 
