@@ -97,7 +97,10 @@ span{
     width: 33%;
     height: 300px;
     flex-direction: column;
+}
 
-    
+.container-plan2{
+    height: 400px;
+    background-color: aqua;
 }
 
