@@ -45,11 +45,12 @@ a {
 .selection {
     align-items: center;
 }
-.header-container{
-    height: 500px;
-    background-color: #B4D0E7;
-    padding-top: 100px;
 
+.header-container{
+    max-width: 70%;
+    margin: auto;
+    position: relative;
+    height: 780px;
 }
 .text-intro{
     max-width: 1170px;
@@ -66,9 +67,10 @@ a {
     width: 40%;
 }
 
-h1{
-    background-color:olive;
-    text-align: center;
+h1 {
+    font-size: 80px;
+    padding-top: 100px;
+    padding-bottom: 60px;
 }
 
 main{
