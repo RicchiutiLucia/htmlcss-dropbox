@@ -152,6 +152,8 @@ h2{
 }
 .client-link{
     color: #0061FF;
+    font-size: smaller;
+    text-decoration: underline;
 }
 .link{
     margin-top: 20px;
@@ -195,19 +197,38 @@ h2{
     border: none;
 }
 
+.container-sponsor {
+    flex-wrap: wrap;
+    flex-basis: 33.3%;
+    /* height: 350px; */
+    height: calc('100vh / 3');
+    /* width: calc('100vw / 3'); */
 
+     
 
-
-
-footer{
-    background-color: black;
-    width: 100%;
-    height: 300px;
-    padding: 50px;
 }
-.footer-list{
-    background-color: red;
-    color: darkorange;
-    max-width: 1170px;
-    margin: auto;
+
+.container-main {
+    padding: 32px;
+    overflow: scroll;
 }
+
+.description {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.sponsor-tag  {
+    width: 50%;
+    height: 50%;
+    
+    
+}
+
+.img-tag {
+    width: 50%;
+    height: 50%;
+    filter: invert(1);
+    margin: 25%;
+}
+
