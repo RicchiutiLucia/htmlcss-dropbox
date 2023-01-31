@@ -332,9 +332,6 @@ footer {
     line-height: 25px;
     
 }
-body footer{
-    width: 100%;
-}
 
 .footer-list {
     flex-basis: 19%;
