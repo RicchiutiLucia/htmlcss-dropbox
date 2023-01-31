@@ -156,6 +156,15 @@ h2{
 .link{
     margin-top: 20px;
 }
+.space-between {
+    justify-content: space-between;
+    
+}
+.horizontal-plan {
+    border: 3px lightgrey  ;
+    padding: 16px;
+   
+}
 
 
 
