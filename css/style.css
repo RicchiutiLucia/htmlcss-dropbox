@@ -303,9 +303,6 @@ h2{
 
 }
 
-
-
-
 .faq {
     padding-top: 32px;
     padding-bottom: 32px;
@@ -325,4 +322,78 @@ h2{
 .faq:hover .domanda{
     display: block;
 }
+
+
+footer {
+    background-color: black;
+    margin-top: 80px;
+    color: white;
+    font-size: 10px;
+    line-height: 25px;
+    
+}
+body .footer-conteiner{
+    width: 100%;
+}
+
+.footer-list {
+    flex-basis: 19%;
+    gap: 1%;
+}
+
+.footer-title {
+    font-size: 16px;
+    font-weight: bolder;
+    margin: 16px 0;
+    padding-top: 16px;
+
+}
+
+
+.footer-line {
+    border: 1px solid white;
+    width: 64px;
+    margin-top: 64px;
+    margin-bottom: 32px;
+    
+}
+
+.language {
+    color: grey;
+    
+}
+
+footer a {
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: underline
+}
+
+section a:hover {
+    text-decoration: underline
+}
+
+.information {
+    display: none;
+}
+
+.faq:hover .information{
+    display: block;
+}
+
+
+
+nav a:hover {
+    text-decoration: underline
+}
+
+nav li:hover {
+    opacity: 0.5;
+    background-color: #b4d0e7;
+    border-bottom: 2px solid #0061FF;
+}
+
+
 
