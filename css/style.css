@@ -230,3 +230,61 @@ h2{
     margin-top: 100px;
     margin-bottom: 80px;
 }
+.conteiner{
+    width: 100%;
+}
+
+.container-sponsor { 
+    width: calc(100vw/3);
+    height: calc(100vw/4);
+
+}
+.container-main {
+    width: calc(100%/3);
+    padding: 32px;
+    overflow: scroll;
+}
+
+.description {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    font-size: 14px;
+}
+
+.sponsor-tag  {
+    width: 50%;
+    height: 50%;
+}
+
+.img-tag {
+    width: 50%;
+    height: 50%;
+    filter: invert(1);
+    margin: 25%;
+}
+
+#col1 {
+    background-color: lightgreen;
+}
+#col2 {
+    background-color: rgb(139, 40, 40);
+}
+#col3 {
+    background-color: lightseagreen;
+}
+#col4 {
+    background-color: rgb(252, 71, 0);
+}
+#col5 {
+    background-color: red;
+}
+#col6 {
+    background-color: #b4d0e7;
+}
+#col7 {
+    background-color: blue;
+}
+#col8 {
+    background-color: yellow;
+}
+
