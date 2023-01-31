@@ -95,13 +95,15 @@ h1 {
 
 h2{
     font-size: 40px
+
 }
-.container-plan {
+.conteiner-plan{
+    padding-top: 80px;
     max-width: 1000px;
     margin: auto;
-    padding-top: 80px;
-    
 }
+
+
 .fatturazione {
     margin-right: 30px;
     margin-left: 20px;
@@ -302,6 +304,10 @@ h2{
     margin-right: 20px;
 
 }
+.conteiner2{
+    width: 100%;
+
+}
 
 .faq {
     padding-top: 32px;
@@ -330,6 +336,8 @@ footer {
     color: white;
     font-size: 10px;
     line-height: 25px;
+    padding: 50px;
+   
     
 }
 
