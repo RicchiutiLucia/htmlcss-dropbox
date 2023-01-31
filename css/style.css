@@ -332,7 +332,7 @@ footer {
     line-height: 25px;
     
 }
-body .footer-conteiner{
+body footer{
     width: 100%;
 }
 
@@ -360,6 +360,7 @@ body .footer-conteiner{
 
 .language {
     color: grey;
+    font-size: 10px;
     
 }
 
@@ -382,8 +383,6 @@ section a:hover {
 .faq:hover .information{
     display: block;
 }
-
-
 
 nav a:hover {
     text-decoration: underline
