@@ -161,9 +161,38 @@ h2{
     
 }
 .horizontal-plan {
-    border: 3px lightgrey  ;
+    border: 3px solid lightgrey  ;
     padding: 16px;
    
+}
+
+.img-partner {
+    width: 100%;
+    
+}
+
+.container-img {
+    width: 60%;
+}
+
+.container-text {
+    width: 40%;
+    padding: 32px;
+}
+
+.partner {
+    padding-bottom: 1.5rem;
+}
+
+.btn-partner {
+    border: 1.5px solid black ;
+    padding: 5px 8px;
+    background-color: white;
+    font-size: 14px;
+    
+}
+.border {
+    border: none;
 }
 
 
