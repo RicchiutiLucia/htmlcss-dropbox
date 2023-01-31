@@ -183,7 +183,7 @@ h2{
 }
 
 .partner {
-    padding-bottom: 1.5rem;
+    padding-bottom: 24px;
 }
 
 .btn-partner {
@@ -286,5 +286,43 @@ h2{
 }
 #col8 {
     background-color: yellow;
+}
+
+
+.bg {
+    background-color: #b4d0e7;
+    padding-bottom: 80px;
+    padding-top: 50px;
+
+}
+
+.title-business {
+    color: purple;
+    font-size: 35px;
+    margin-right: 20px;
+
+}
+
+
+
+
+.faq {
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+}
+.information {
+    padding-top: 16px;
+    display: none;
+}
+.domanda{
+    display: block;
+}
+
+.faq:hover .information{
+    display: block;
+}
+.faq:hover .domanda{
+    display: block;
 }
 
