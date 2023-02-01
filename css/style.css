@@ -104,11 +104,13 @@ h2{
 
 .fatturazione {
     margin-right: 30px;
-    margin-left: 20px;
+    margin-left: 40px;
+
 }
 .circle{
     border: solid 5px #0061FF;
     border-radius: 50%;
+    
 }
 
 .billing {
@@ -289,10 +291,11 @@ h2{
 .title-business {
     color: purple;
     font-size: 35px;
-    margin-right: 20px;
+    margin-right: 30px;
 }
 .prova{
     align-self: center;
+    font-size: 14px;
 }
 .faq {
     padding-top: 32px;
@@ -373,7 +376,7 @@ nav li:hover {
     border: solid 1px gray;
 }
 .btn-partner:hover{
-    background-color: lightskyblue;
+    background-color: lightslategray;
 }
 
 

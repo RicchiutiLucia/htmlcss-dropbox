@@ -104,11 +104,13 @@ h2{
 
 .fatturazione {
     margin-right: 30px;
-    margin-left: 20px;
+    margin-left: 40px;
+
 }
 .circle{
     border: solid 5px #0061FF;
     border-radius: 50%;
+    
 }
 
 .billing {
@@ -245,12 +247,13 @@ h2{
 .sponsor-tag  {
     width: 50%;
     height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .img-tag {
     width: 50%;
-    height: 50%;
     filter: invert(1);
-    margin: 25%;
 }
 
 #col1 {
@@ -288,9 +291,11 @@ h2{
 .title-business {
     color: purple;
     font-size: 35px;
-    margin-right: 20px;
-    vertical-align: middle;
-    line-height: center;
+    margin-right: 30px;
+}
+.prova{
+    align-self: center;
+    font-size: 14px;
 }
 .faq {
     padding-top: 32px;
@@ -371,5 +376,5 @@ nav li:hover {
     border: solid 1px gray;
 }
 .btn-partner:hover{
-    background-color: lightskyblue;
+    background-color: lightslategray;
 }
