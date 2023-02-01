@@ -86,7 +86,7 @@ a {
 h1 {
     font-size: 80px;
     font-weight: bolder;
-    padding-top: 100px;
+    padding-top: 150px;
     padding-bottom: 60px;
 }
 
@@ -289,7 +289,8 @@ h2{
     color: purple;
     font-size: 35px;
     margin-right: 20px;
-
+    vertical-align: middle;
+    line-height: center;
 }
 .faq {
     padding-top: 32px;
@@ -362,6 +363,15 @@ section a:hover {
 nav li:hover {
 
     border-bottom: 2px solid black;
+}
+
+.btn:hover{
+    background-color: lightgray;
+    color:#0061FF ;
+    border: solid 1px gray;
+}
+.btn-partner:hover{
+    background-color: lightskyblue;
 }
 
 
