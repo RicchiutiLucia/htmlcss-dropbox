@@ -130,6 +130,9 @@ h2{
     text-align: center;
     padding: 8px;
 }
+.abbonamento{
+    color: #bbbbbb;
+}
 .plan {
     border:solid 3px lightgrey  ;
     padding: 30px;
