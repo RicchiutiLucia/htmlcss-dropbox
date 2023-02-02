@@ -360,13 +360,6 @@ footer a:hover {
 section a:hover {
     text-decoration: underline
 }
-.information {
-    display: none;
-}
-
-.faq:hover .information{
-    display: block;
-}
 nav li:hover {
 
     border-bottom: 2px solid black;
